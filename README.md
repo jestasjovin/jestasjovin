@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hellow there 👋
 
-<!--
-**jestasjovin/jestasjovin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm [Your Name], a Full Stack Developer who loves diving into code and creating awesome projects.
 
-Here are some ideas to get you started:
+### 🎨 What I'm Building
+Right now, I’m working on **creating algorithms to compress data and embedding them into existing interfaces**. Additionally, I'm diving into various projects using React, Next.js, Nest.js, and plain Node.js. It's a mix of frontend magic and backend wizardry!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Exploring
+I'm always on the hunt for new tech adventures. Lately, I’ve been exploring:
+- Advanced algorithms for data compression
+- Frontend development with React and Next.js
+- Backend development with Nest.js and Node.js
+
+### 🤝 Let's Collaborate
+Got a cool project idea? Let's team up, especially if it involves:
+- Algorithms and data compression
+- Full Stack development with React, Next.js, Nest.js, and Node.js
+- Open-source contributions
+
+### 💡 Need Advice?
+I’m here to help! Ask me about:
+- Algorithm design and optimization
+- React and Next.js development
+- Nest.js and Node.js backend solutions
+
+### 📬 Connect with Me
+Let’s chat! You can reach me at jvjestas@gmail.com.
+
+### 🌟 Fun Tidbit
+When I’m not coding, I’m probably exploring the latest tech trends or catching up on my favorite TV shows.
+
