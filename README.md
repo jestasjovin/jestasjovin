@@ -1,6 +1,12 @@
-# Full-Stack Developer - Jovin Jestas
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+# Full-Stack Software developer
 
 Welcome to my GitHub profile! I’m **Jovin Jestas**, a passionate Full-Stack Developer with a strong foundation in building modern web and mobile applications. I hold a degree in **Engineering** from **UDSM** and have undergone comprehensive training at the **Denmark Technical University**. My expertise spans a broad range of technologies from **Frontend Development** to **Backend Architecture**, **Cloud Solutions**, and **AI/ML** basics. I am committed to creating efficient, scalable, and maintainable applications, always learning and improving to stay at the forefront of technology.
+
+---
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jestasjovin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ---
 
