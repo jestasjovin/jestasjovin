@@ -1,6 +1,6 @@
 # Software engineering / developer
 
-Welcome to my GitHub profile! I’m **Jovin Jestas**, a passionate Full-Stack Developer with a strong foundation in building modern web and mobile applications. I hold a degree in **Engineering** from **UDSM** and have undergone comprehensive training at the **Denmark Technical University**. My expertise spans a broad range of technologies from **Frontend Development** to **Backend Architecture**, **Cloud Solutions**, and **AI/ML** basics. I am committed to creating efficient, scalable, and maintainable applications, always learning and improving to stay at the forefront of technology.
+Welcome to my GitHub profile! I’m **Jovin Jestas Kyolike**, a passionate Telecommunications engineer with a strong foundation in programming softwares such as modern web and mobile applications, machine learning and problem solving skills. I hold a degree in **Engineering** from **UDSM** and have undergone comprehensive training at the **Denmark Technical University** . My expertise spans a broad range of technologies from **Frontend Development** to **Backend Architecture**, **Cloud Solutions**, and **AI/ML** basics. I am committed to creating efficient, scalable, and maintainable applications, always learning and ready to learn new technologies as well as improving to stay at the forefront of technology.
 
 ---
 
