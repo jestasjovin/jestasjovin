@@ -81,11 +81,17 @@ Welcome to my GitHub profile! I’m **Jovin Jestas Kyolike**, a passionate Telec
 Here are a few of the standout projects I’ve worked on:
 
 1. **Bandajamii (React Js,Nest Js,Graphql,Postgress and Prisma )**
-   A full-fledged e-commerce web application with a real-time shopping cart, integrated payment gateway, and product search functionality using **React**, **Node.js**, and **MongoDB**.
-2. **Safiri app (React & Express)**  
-   A full-fledged e-commerce web application with a real-time shopping cart, integrated payment gateway, and product search functionality using **React**, **Node.js**, and **MongoDB**.   
-3. **Kikobani (React Native, Next js,Node,Graphql,Postgress and Prisma )**  
-   A mobile app for iOS and Android built with **React Native**, enabling real-time messaging and media sharing. **WebSockets** were used to implement live messaging functionality.
+   A full-fledged e-commerce like web application with a real-time shopping cart, the systems has a list of venues/local and professional where users who need to spread a specific knowledge or agenda are able to reserve vennues for specific date and time needed to spread their agenda. User will pay and be able to use vennue to spread agenda for the given time, after that users  will be given feedbck on number of people attended  using **React**, **Node.js**, and **Postgress**.
+ 
+2. **Kikobani (React Native, Next js,Node,Graphql,Postgress and Prisma )**  
+   Responsoble for the entire system. A mobile app for iOS and Android, USSD and a complete web server built with **React Native**, **node js** and a db, enabling real-time reposrts and notifications and transactions information.
+   
+3. **Safiri app (React & Express)**  
+   Was responsible for building parcel system and other assigned tasks: for the older version of the app.
+   
+4. **dproz (React & Node js)**  
+   I was resonsible for some front features such as app layout and some othe assigned tasks, Also creating reusable resume templates in the backend using handlebars .    
+    
 
 
 ---
