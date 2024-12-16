@@ -1,16 +1,34 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
 # Full-Stack Software developer
 
 Welcome to my GitHub profile! I’m **Jovin Jestas**, a passionate Full-Stack Developer with a strong foundation in building modern web and mobile applications. I hold a degree in **Engineering** from **UDSM** and have undergone comprehensive training at the **Denmark Technical University**. My expertise spans a broad range of technologies from **Frontend Development** to **Backend Architecture**, **Cloud Solutions**, and **AI/ML** basics. I am committed to creating efficient, scalable, and maintainable applications, always learning and improving to stay at the forefront of technology.
 
 ---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jestasjovin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
----
+# **Skills**
 
-## **Technologies & Tools**
+### **Programming Languages**
+- **Java**: For my professional establishment in DSA and algorithms and Software engineering concepts and solutions as well as android app dev .
+- **Js && Ts**: Using for front end web applications and backend's while using node systems, mobile app dev.
+- **python**: For research and Mashine learning.
+
+### **Tech Skills**
+- **Data structures**: Professional understanding in Java's  Data structures and collection framework.
+- **Algorithms**: Dynamic programming, Backtracking ,Recursive algorithms and etc.
+- **Web development**: Full stack i.e backend web servers and apis as well as front end.
+- **Mobile Apps**: Android and ios app using react native, android's Java/kotlin.
+- **Programming**: Functional and Object oriented Programming algorithms to solve various problems.
+
+### **Insights**
+- **Sustainability**: ensuring all ideas, solutions and implementations are sustainable with the surrounding circumstances.
+- **Inclusitivity**: ensuring all ideas, solutions and implementations are inclusing most of stackeholders.
+- **Project management**: Can lead project wether in small task or large scale full system.
+- **Team work and collaboration**: can handle teamwork and stressful nature of work.
+- **Innovation**: Providing innovative ideas when required.
+- **Pitching and communication**: communicating tech ideas using simple languages.
+
+
+### **Specific tools and skillsets**
 
 ### **Frontend:**
 - **React.js**: A JavaScript library for building fast, interactive UIs. I use **React** to develop highly dynamic and reusable components.
@@ -68,19 +86,6 @@ Here are a few of the standout projects I’ve worked on:
 3. **Kikobani (React Native, Next js,Node,Graphql,Postgress and Prisma )**  
    A mobile app for iOS and Android built with **React Native**, enabling real-time messaging and media sharing. **WebSockets** were used to implement live messaging functionality.
 
-
-
-
-
----
-
-## **Fun Facts About My Work** 🧠
-
-- **Full-Stack Development**: I can build both the frontend and backend, giving me the flexibility to create complete and functional applications. 💻
-- **Microservices**: Building applications in microservices architecture helps break down complex systems into smaller, manageable, and independently deployable services. 🔧
-- **Docker**: Containerizing applications with Docker ensures that they run consistently across different environments. 🚢
-- **Machine Learning**: By adding a touch of **AI**, I aim to make my projects smarter, from recommending products in an e-commerce app to predicting trends based on user data. 🤖
-- **PostgreSQL**: I use **PostgreSQL** for handling complex queries and managing large datasets in my backend services. 📊
 
 ---
 
