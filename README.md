@@ -67,6 +67,7 @@ Welcome to my GitHub profile! I’m **Jovin Jestas**, a passionate Full-Stack De
 ### **Data Structures & Algorithms:**
 - I have strong expertise in **Data Structures** like **arrays**, **linked lists**, **trees**, **graphs**, **hashmaps**, and others, which I apply in solving complex coding problems.
 - Proficient in **Algorithms** like **sorting**, **searching**, **dynamic programming**, and **graph algorithms** to optimize application performance.
+- Implementing valious algorithms and various academic papers.
 
 ### **AI/ML and Deep Learning Basics:**
 - **Artificial Intelligence**: Basics of AI algorithms such as **classification**, **clustering**, and **regression**.
